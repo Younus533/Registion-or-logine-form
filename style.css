@@ -1,0 +1,180 @@
+/* page no 1 ke css */
+.heding {
+    font-size: 60px;
+}
+.image {
+    display: flex;
+    height:50em;
+    width: 50em;
+}
+/* page no 1 ke css completed */
+
+
+
+
+/*Start your logine Form*/
+.main-imagesa{
+    display: flex;
+    margin-left:37em ;
+    height: 18em;
+    width: 18em;
+}
+#heading {
+    display: flex;
+    margin-left: 32em;
+    font-size: 18px;
+}
+
+.main-containera{
+    display: flex;
+    padding-left: 36em;
+}
+.container16 {
+    display: flex;
+    margin-left: 70px;
+    padding-left: 0;
+}
+
+
+.container17 {
+    display: flex;
+    margin-left: 40px;
+    padding-left: 8px;
+}
+
+
+.container18 {
+    margin-left: 40em;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+/* complet your logine form */
+
+
+
+/* start your registion form */
+ .main-image {
+    display: flex;
+    margin-left: 32em;
+    height: 10em;
+    width: 10em;
+}
+
+.heading {
+    display: flex;
+    margin-left: 20em;
+    font-size: 20px;
+}
+.main-container  {
+    display: flex;
+    margin-left: 45px;
+    padding-left: 40px;
+}
+
+.container1 {
+    display: flex;
+    margin-left:13em ;
+    padding-left: 10px;
+    
+}
+
+.container2 {
+    display: flex;
+    margin-left: 13em;
+    padding-left: 13px;
+}
+
+.container3 {
+    display: flex;
+    margin-left: 11em;
+    padding-left:20px ;
+}
+.container4 {
+    display: flex;
+    margin-left: 14em;
+    padding-left: 17px;
+}
+.container5 {
+    display: flex;
+    margin-left: 11em;
+    padding-left:2px;
+}
+.container6 {
+    display: flex;
+    margin-left: 14em;
+    padding-left: 23px;
+}
+.container7 {
+    display: flex;
+    margin-left: 16em;
+    padding-left:12px ;
+}
+
+.container8  {
+    display: flex;
+    margin-left: 15em;
+    padding-left: 35px ;
+}
+.container9 {
+    display: flex;
+    margin-left: 14em;
+    padding-left:15px ;
+}
+.container10 {
+    display: flex;
+    margin-left: 16em;
+    padding-left:9px ;
+}
+
+.container11 {
+    display: flex;
+    margin-left: 14em;
+    padding-left: 12px;
+}
+
+.container12 {
+    display: flex;
+    margin-left: 15em;
+    padding-left: 4px;
+    
+}
+#container112 {
+    display: flex;
+    margin-left: 24em;
+    padding-left: 14px;
+}
+
+.container13 {
+    display: flex;
+    margin-left: 10em;
+    padding-left: 36px;
+}
+#container113 {
+    margin-left: 30em;
+    padding-left: 30px;
+}
+
+.container14 {
+    display: flex;
+    margin-left: 13em;
+    padding-left: 18px;
+}
+
+.container15 {
+    display: flex;
+    margin-left: 6em;
+    padding-left: 0;
+}
+
+.gap {
+    margin-left: 10px;
+}
+
+
+/* complet your registion form */
